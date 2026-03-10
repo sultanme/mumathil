@@ -1,0 +1,38 @@
+[
+  {
+    "id": "PDPL-001",
+    "description": "Website must include a privacy policy",
+    "type": "policy_analysis",
+    "mapping_key": "privacy_policy"
+  },
+  {
+    "id": "PDPL-002",
+    "description": "Website must explain purpose of data collection",
+    "type": "policy_analysis",
+    "mapping_key": "data_collection_purpose"
+  },
+  {
+    "id": "PDPL-003",
+    "description": "Website must provide user consent mechanisms",
+    "type": "policy_analysis",
+    "mapping_key": "user_consent_mechanisms"
+  },
+  {
+    "id": "PDPL-004",
+    "description": "Website must provide cookie consent controls",
+    "type": "policy_analysis",
+    "mapping_key": "cookie_consent_banner"
+  },
+  {
+    "id": "PDPL-005",
+    "description": "Website must disclose third-party data sharing",
+    "type": "policy_analysis",
+    "mapping_key": "third_party_sharing_disclosure"
+  },
+  {
+    "id": "PDPL-006",
+    "description": "Website must provide data retention details",
+    "type": "policy_analysis",
+    "mapping_key": "data_retention_information"
+  }
+]
